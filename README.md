@@ -6,7 +6,7 @@ This webpage is designed to MORINGA SCHOOL KIAC,it is a website which deals with
 ## KNOWN BUGS
 This prtfolio is well organised and well edited so that you may not find any errors.Means it is readable
 ## Setup/installation
-by this link you can get all inmformation about how to install github :"https://iyerikuzwe.github.io/Portfolio/
+by this link you can get all inmformation about how to install github :"https://iyerikuzwe.github.io/Portfolio"
 ## support and contact details
 For more information:isssues,questions ideas or other requests about me,don't hesitate to contact me through my E-mail:iyerikuzweregine19@gmail.com.
 ### License
