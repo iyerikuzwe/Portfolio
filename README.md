@@ -13,3 +13,6 @@ For more information:isssues,questions ideas or other requests about me,don't he
 MIT © Iyerikuzwe Regine.
 This is my own portfolio designed to moringa school KIAC.
 Everyone is allowed to copy and distribute verbatim copies of this document but pragiarism is prohibited.
+## Acknowledgements
+great thanks to  moringa school mentors who did their best to help me accomplish this project.
+I acknoledge my daily fellow classmates who help me to do my portfolio as excepected.
